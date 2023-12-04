@@ -8,6 +8,7 @@ I am an Art major who plans to graduate in 2027. I took CPSC 120 since I was som
 
 Lab 4 was great because it was one of our first experiences with functions, as well as one of the first experiences with boolean values. This lab provided a basic overview of these two very important concepts and it was very fun to learn.
 
+
 2. Lab 6
 
 3. Lab 10
