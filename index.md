@@ -15,3 +15,5 @@ Lab 6 was a lab I enjoyed a lot since part 2, the blackjack program, was one of 
 
 
 3. Lab 10
+
+Lab 10 introduced file stream input, which was very fun to play around with. Additionally, I started feeling like I was mastering loops and getting a better understanding of computer programming, so it was very satisfying to feel that.
