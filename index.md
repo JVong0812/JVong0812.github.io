@@ -4,7 +4,7 @@ I am an Art major at [Cal State Fullerton](https://www.fullerton.edu/) who plans
 
 # Comupter Science Projects
 
-My GitHub page is (https://github.com/JVong0812).
+My GitHub page is [here.](https://github.com/JVong0812)
 
 
 # Favorite Labs from CPSC 120L
